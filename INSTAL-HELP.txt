@@ -1,0 +1,10 @@
+1.Import Database... "laundry.sql" (ada di Folder htdocs dan sql)
+2.Pindahkan Folder Laundry ke xampp/htdocs/ (ada di htdocs dan sql)
+
+Akun Administration :
+Username : admin
+Password : admin
+
+Akun User :
+Username : user
+Password : user
